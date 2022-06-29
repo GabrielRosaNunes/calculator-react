@@ -1,0 +1,7 @@
+.App * {
+  font-family: 'Roboto Mono';
+  font-size: 2.1rem;
+}
+.App {
+  background-color: rgb(40, 40, 40);
+}

@@ -1,0 +1,9 @@
+.Display {
+    grid-column: span 4;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding:20px;
+    overflow: hidden;
+    background-color: darkgray;
+}

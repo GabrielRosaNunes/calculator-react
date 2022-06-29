@@ -1,0 +1,8 @@
+button {
+    background-color: rgb(237, 235, 235);
+    border:1px solid gray
+}
+
+button:active {
+    background-color: gray;
+}
